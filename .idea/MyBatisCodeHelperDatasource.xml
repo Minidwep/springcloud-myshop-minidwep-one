@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="generateService" value="true" />
+        <option name="generateServiceInterface" value="true" />
+        <option name="javaMapperPackage" value="com.minidwep.myshop.mapper" />
+        <option name="javaMapperPath" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/java" />
+        <option name="javaModelPackage" value="com.minidwep.myshop.domain" />
+        <option name="javaModelPath" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="shop-oAuth2-resource-service" />
+        <option name="lombokAllArgConstructor" value="true" />
+        <option name="lombokDataAnnotation" value="true" />
+        <option name="lombokNoArgsConstructor" value="true" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="shop-oAuth2-resource-service">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.minidwep.myshop.mapper" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/java" />
+                  <option name="javaModelPacakge" value="com.minidwep.myshop.domain" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/java" />
+                  <option name="javaServiceInterfacePackage" value="com.minidwep.myshop.service" />
+                  <option name="javaServiceInterfacePath" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/java" />
+                  <option name="javaServicePackage" value="com.minidwep.myshop.service.impl" />
+                  <option name="javaServicePath" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/java" />
+                  <option name="xmlPackage" value="mybatis" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+            <entry key="shop-oAuth2-service">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.minidwep.myshop.mapper" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/shop-oAuth2-service/src/main/java" />
+                  <option name="javaModelPacakge" value="com.minidwep.myshop.domain" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/shop-oAuth2-service/src/main/java" />
+                  <option name="javaServiceInterfacePackage" value="com.minidwep.myshop.service" />
+                  <option name="javaServiceInterfacePath" value="$PROJECT_DIR$/shop-oAuth2-service/src/main/java" />
+                  <option name="javaServicePackage" value="com.minidwep.myshop.service.impl" />
+                  <option name="javaServicePath" value="$PROJECT_DIR$/shop-oAuth2-service/src/main/java" />
+                  <option name="xmlPackage" value="mapper" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/shop-oAuth2-service/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="myshop:tb_permission">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbPermission" />
+                  <option name="moduleName" value="shop-oAuth2-service" />
+                  <option name="sequenceColumn" value="" />
+                  <option name="sequenceId" value="" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="myshop:tb_user">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbUser" />
+                  <option name="moduleName" value="shop-oAuth2-service" />
+                  <option name="sequenceColumn" value="" />
+                  <option name="sequenceId" value="" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="oauth2_resource:tb_content">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbContent" />
+                  <option name="moduleName" value="shop-oAuth2-resource-service" />
+                  <option name="sequenceColumn" value="" />
+                  <option name="sequenceId" value="" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="oauth2_resource:tb_content_category">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbContentCategory" />
+                  <option name="moduleName" value="shop-oAuth2-resource-service" />
+                  <option name="sequenceColumn" value="" />
+                  <option name="sequenceId" value="" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="userMybatisPlus" value="true" />
+        <option name="xmlMapperPackage" value="mybatis" />
+        <option name="xmlMapperPath" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/resources" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>

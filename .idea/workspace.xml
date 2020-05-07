@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba683ec3-d5da-4903-8850-464d8d960a68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - myshop@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="oauth2_resource: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1bDTUYDrem9h2ppvKwytRIxwDCQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="MyBatisLogPluginindexNum" value="53" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31264368" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-payment-service\src\main\resources\mybatis" />
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-payment-service\src\main\java\com\minidwep\myshop\service\impl" />
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-payment-service\src\main\java\com\minidwep\myshop\service" />
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-payment-service\src\main\java\com\minidwep\myshop\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.minidwep.myshop.mapper" />
+      <recent name="com.minidwep.myshop.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-oAuth2-resource-service\src\main\resources" />
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-oAuth2-service\src\main\resources" />
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-goods-consumer-test5011\src\main\java" />
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-goods-consumer-test5011\src\main\resources" />
+      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-goods-service9022\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OAuth2ResourceMain">
+    <configuration name="OAuth2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OAuth2Test" />
+      <module name="shop-oAuth2-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.contextLoads (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-oAuth2-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minidwep.myshop.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.minidwep.myshop.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.minidwep.myshop.mapper.ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2Test.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-oAuth2-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OAuth2Test" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerGoodsMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-goods-consumer-test5011" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.ConsumerGoodsMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerOrderMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-order-consumer5001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.ConsumerOrderMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CouponMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-coupon-service9012" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.CouponMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsMain (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-goods-service9022" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="myshop.GoodsMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-goods-service9021" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.GoodsMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-oAuth2-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minidwep.myshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.OAuth2Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2ResourceMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-oAuth2-resource-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minidwep.myshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.OAuth2ResourceMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-order-service9091" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.OrderMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-payment-service9010" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.PaymentMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-user-service9013" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.UserMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OAuth2Test" />
+      <item itemvalue="JUnit.OAuth2Test.contextLoads" />
+      <item itemvalue="JUnit.ApplicationTests.contextLoads (1)" />
+      <item itemvalue="Spring Boot.CouponMain" />
+      <item itemvalue="Spring Boot.GoodsMain" />
+      <item itemvalue="Spring Boot.GoodsMain (1)" />
+      <item itemvalue="Spring Boot.OrderMain" />
+      <item itemvalue="Spring Boot.PaymentMain" />
+      <item itemvalue="Spring Boot.UserMain" />
+      <item itemvalue="Spring Boot.ConsumerOrderMain" />
+      <item itemvalue="Spring Boot.ConsumerGoodsMain" />
+      <item itemvalue="Spring Boot.OAuth2Main" />
+      <item itemvalue="Spring Boot.OAuth2ResourceMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OAuth2ResourceMain" />
+        <item itemvalue="Spring Boot.OAuth2Main" />
+        <item itemvalue="JUnit.ApplicationTests.contextLoads (1)" />
+        <item itemvalue="JUnit.OAuth2Test.contextLoads" />
+        <item itemvalue="Application.OAuth2Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.16666667" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:oauth2_resource@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba683ec3-d5da-4903-8850-464d8d960a68" name="Default Changelist" comment="" />
+      <created>1588165680430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588165680430</updated>
+      <workItem from="1588165685996" duration="13405000" />
+      <workItem from="1588215245571" duration="15694000" />
+      <workItem from="1588237055187" duration="14010000" />
+      <workItem from="1588311486131" duration="9419000" />
+      <workItem from="1588409240770" duration="2696000" />
+      <workItem from="1588657708175" duration="10419000" />
+      <workItem from="1588744124195" duration="6623000" />
+      <workItem from="1588756114180" duration="1032000" />
+      <workItem from="1588764749498" duration="75000" />
+      <workItem from="1588764854499" duration="537000" />
+      <workItem from="1588765457257" duration="457000" />
+      <workItem from="1588765952577" duration="11552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="218" key="#Notifications" timestamp="1588239700991">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="218" key="#Notifications/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588239700991" />
+    <state x="439" y="351" width="1161" height="683" key="#Project_Structure" timestamp="1588249197151">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="0" y="397" key="#Project_Structure/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588166918965" />
+    <state x="0" y="397" key="#Project_Structure/0.40.1920.1040@0.40.1920.1040" timestamp="1588217372066" />
+    <state x="439" y="351" width="1161" height="683" key="#Project_Structure/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249197151" />
+    <state x="552" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588774072015">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588774072015" />
+    <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1588775507485">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588775507485" />
+    <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1588217898630" />
+    <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588251075419" />
+    <state x="690" y="335" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1588765060142">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="690" y="335" key="#com.intellij.ide.util.PackageChooserDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588765060142" />
+    <state x="512" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588315898536">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="512" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588315898536" />
+    <state x="740" y="314" key="FileChooserDialogImpl" timestamp="1588765913076">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="314" key="FileChooserDialogImpl/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588765913076" />
+    <state x="740" y="314" key="FileChooserDialogImpl/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249262232" />
+    <state width="1539" height="362" key="GridCell.Tab.0.bottom" timestamp="1588785851605">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1539" height="362" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1877" height="488" key="GridCell.Tab.0.bottom/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588255209409" />
+    <state width="1539" height="362" key="GridCell.Tab.0.center" timestamp="1588785851604">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1539" height="362" key="GridCell.Tab.0.center/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851604" />
+    <state width="1877" height="488" key="GridCell.Tab.0.center/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588255209409" />
+    <state width="1539" height="362" key="GridCell.Tab.0.left" timestamp="1588785851604">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1539" height="362" key="GridCell.Tab.0.left/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851604" />
+    <state width="1877" height="488" key="GridCell.Tab.0.left/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588255209408" />
+    <state width="1539" height="362" key="GridCell.Tab.0.right" timestamp="1588785851604">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1539" height="362" key="GridCell.Tab.0.right/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851604" />
+    <state width="1877" height="488" key="GridCell.Tab.0.right/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588255209409" />
+    <state width="1539" height="362" key="GridCell.Tab.1.bottom" timestamp="1588785851605">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1539" height="362" key="GridCell.Tab.1.bottom/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1293" height="231" key="GridCell.Tab.1.bottom/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588252920360" />
+    <state width="1539" height="362" key="GridCell.Tab.1.center" timestamp="1588785851605">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1539" height="362" key="GridCell.Tab.1.center/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1293" height="231" key="GridCell.Tab.1.center/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588252920360" />
+    <state width="1539" height="362" key="GridCell.Tab.1.left" timestamp="1588785851605">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1539" height="362" key="GridCell.Tab.1.left/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1293" height="231" key="GridCell.Tab.1.left/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588252920359" />
+    <state width="1539" height="362" key="GridCell.Tab.1.right" timestamp="1588785851605">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1539" height="362" key="GridCell.Tab.1.right/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1293" height="231" key="GridCell.Tab.1.right/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588252920360" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1588764569606">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588764569606" />
+    <state x="600" y="257" key="NewModule_or_Project.wizard" timestamp="1588249263878">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="600" y="257" key="NewModule_or_Project.wizard/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249263878" />
+    <state x="440" y="134" key="SettingsEditor" timestamp="1588765919236">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="440" y="134" key="SettingsEditor/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588765919236" />
+    <state x="440" y="134" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1588217357005" />
+    <state x="440" y="134" key="SettingsEditor/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249267462" />
+    <state x="754" y="181" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1588773984599">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="754" y="181" key="com.intellij.database.view.ui.DbObjectDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588773984599" />
+    <state x="640" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1588766178268">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="640" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588766178268" />
+    <state x="332" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588248213221">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="332" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588248213221" />
+    <state x="649" y="314" key="new project wizard" timestamp="1588773745004">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="649" y="314" key="new project wizard/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588773745004" />
+    <state x="334" y="254" key="new project wizard/0.40.1920.1040@0.40.1920.1040" timestamp="1588745079204" />
+    <state x="377" y="330" key="new project wizard/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249065409" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1588780368381">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588780368381" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588250241695" />
+    <state x="640" y="242" key="spring file set editor" timestamp="1588239144429">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="640" y="242" key="spring file set editor/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588179440833" />
+    <state x="640" y="242" key="spring file set editor/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588239144429" />
+  </component>
+</project>

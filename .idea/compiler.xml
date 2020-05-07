@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-order-consumer5001" />
+        <module name="shop-goods-service9021" />
+        <module name="shop-user-service9013" />
+        <module name="shop-order-consumer" />
+        <module name="shop-basic-commons" />
+        <module name="shop-order-service9093" />
+        <module name="shop-payment-service9010" />
+        <module name="shop-order-service9092" />
+        <module name="shop-goods-consumer-test5011" />
+        <module name="shop-oAuth2-service" />
+        <module name="shop-goods-services9011" />
+        <module name="shop-order-conusmer" />
+        <module name="shop-goods-service9022" />
+        <module name="shop-oAuth2-resource-service" />
+        <module name="shop-order-service9091" />
+        <module name="shop-coupon-service9012" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shop-goods-services9011" target="1.8" />
+      <module name="shop-order-consumer" target="1.8" />
+      <module name="shop-order-conusmer" target="1.8" />
+      <module name="shop-order-service9091 (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
