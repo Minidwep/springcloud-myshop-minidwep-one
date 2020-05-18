@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: dubbo-provider
+  main:
+    allow-bean-definition-overriding: true
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource  #当前数据源操作类型
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/myshop?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+    username: root
+    password: 123456
+dubbo:
+  scan:
+    base-packages: com.minidwep.myshop.service
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    address: nacos://39.96.72.169:1111
+    parameters:
+      namespace: 1a6795ca-c6ae-4376-80c4-bffadb7d44b1

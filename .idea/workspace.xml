@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba683ec3-d5da-4903-8850-464d8d960a68" name="Default Changelist" comment="" />
+    <list default="true" id="ba683ec3-d5da-4903-8850-464d8d960a68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/myShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/OAuth2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/config/AuthorizationSererConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/config/WebSecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/config/service/UserDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/domain/TbPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/domain/TbUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/dto/LoginInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/dto/LoginParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/dto/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/mapper/TbPermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/mapper/TbUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/service/TbPermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/service/TbUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/service/impl/TbPermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/service/impl/TbUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/util/MapperUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/java/com/minidwep/myshop/util/OkHttpClientUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/resources/mybatis/TbPermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/main/resources/mybatis/TbUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business-oauth2/src/test/java/com/minidwep/myshop/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-basic-commons/src/main/java/com/minidwep/myshop/provider/EchoServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-consumer/src/main/java/com/minidwep/myshop/DubboConsumerTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-consumer/src/main/java/com/minidwep/myshop/controller/DubboTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-consumer/src/main/java/com/minidwep/myshop/controller/SentinelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-serivce/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-serivce/shop-dubbo-serivce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-serivce/src/main/java/com/minidwep/myshop/DubboTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-serivce/src/main/java/com/minidwep/myshop/service/EchoServiceTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-dubbo-serivce/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-basic-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-basic-commons/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-basic-commons/shop-basic-commons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business-oauth2/business-oauth2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-basic-commons/target/classes/META-INF/shop-basic-commons.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-basic-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/shop-basic-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-basic-commons/target/shop-basic-commons-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shop-basic-commons/target/shop-basic-commons-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-goods-consumer-test5011/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-goods-consumer-test5011/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-goods-consumer-test5011/target/classes/META-INF/shop-goods-consumer-test5011.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-goods-service9021/target/classes/META-INF/shop-goods-service9021.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-oAuth2-resource-service/shop-oAuth2-resource-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-oAuth2-service/shop-oAuth2-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-oAuth2-service/target/classes/META-INF/shop-oAuth2-service.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-order-service9092/target/classes/com/minidwep/myshop/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/shop-order-service9092/target/classes/com/minidwep/myshop/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-payment-service9010/shop-payment-service9010.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-user-service9013/target/test-classes/META-INF/shop-user-service.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,28 +75,11 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL - myshop@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="oauth2_resource@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="oauth2_resource: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-      </path>
-    </expand>
+    <expand />
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="myShop" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,11 +89,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\minid\IdeaProjects\myShop\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="C:\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+        <option name="mavenHome" value="C:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -66,6 +116,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1bDTUYDrem9h2ppvKwytRIxwDCQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -73,7 +124,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="MyBatisLogPluginindexNum" value="53" />
+    <property name="MyBatisLogPluginindexNum" value="182" />
     <property name="MyBatisLogPluginparameters" value="Parameters:" />
     <property name="MyBatisLogPluginpreparing" value="Preparing:" />
     <property name="MyBatisLogPluginrunning" value="true" />
@@ -82,10 +133,17 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-oAuth2-resource-service/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../garbage-classification" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31264368" />
@@ -99,15 +157,17 @@
       <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-payment-service\src\main\java\com\minidwep\myshop\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.minidwep.myshop.test" />
+      <recent name="com.minidwep.myshop" />
       <recent name="com.minidwep.myshop.mapper" />
       <recent name="com.minidwep.myshop.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minid\IdeaProjects\myShop\business-oauth2\src\main\java" />
+      <recent name="C:\Users\minid\IdeaProjects\myShop\business-oauth2\src\main\resources" />
+      <recent name="C:\Users\minid\IdeaProjects\myShop\shop-dubbo-consumer\src\main\resources" />
+      <recent name="C:\Users\minid\IdeaProjects\myShop\shop-dubbo-serivce\src\main\resources" />
       <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-oAuth2-resource-service\src\main\resources" />
-      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-oAuth2-service\src\main\resources" />
-      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-goods-consumer-test5011\src\main\java" />
-      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-goods-consumer-test5011\src\main\resources" />
-      <recent name="C:\Users\王冠锐\IdeaProjects\myShop\shop-goods-service9022\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -117,35 +177,50 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.OAuth2ResourceMain">
-    <configuration name="OAuth2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OAuth2Test" />
-      <module name="shop-oAuth2-service" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplicationTests.contextLoads (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="shop-oAuth2-service" />
+  <component name="RunManager" selected="JUnit.ApplicationTests.testUtilPost">
+    <configuration name="ApplicationTests.testGet (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="business-oauth2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.minidwep.myshop.mapper.*" />
+          <option name="PATTERN" value="com.minidwep.myshop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.minidwep.myshop.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.minidwep.myshop.mapper.ApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="PACKAGE_NAME" value="com.minidwep.myshop" />
+      <option name="MAIN_CLASS_NAME" value="com.minidwep.myshop.ApplicationTests" />
+      <option name="METHOD_NAME" value="testGet" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OAuth2Test.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="shop-oAuth2-service" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OAuth2Test" />
-      <option name="METHOD_NAME" value="contextLoads" />
+    <configuration name="ApplicationTests.testPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="business-oauth2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minidwep.myshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.minidwep.myshop" />
+      <option name="MAIN_CLASS_NAME" value="com.minidwep.myshop.ApplicationTests" />
+      <option name="METHOD_NAME" value="testPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.testUtilPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="business-oauth2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minidwep.myshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.minidwep.myshop" />
+      <option name="MAIN_CLASS_NAME" value="com.minidwep.myshop.ApplicationTests" />
+      <option name="METHOD_NAME" value="testUtilPost" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,6 +247,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DubboTestMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-dubbo-serivce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.DubboTestMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GoodsMain (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="shop-goods-service9022" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="myshop.GoodsMain" />
@@ -186,8 +268,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OAuth2Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="shop-oAuth2-service" />
+    <configuration name="OAuth2Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="business-oauth2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.minidwep.myshop.*" />
@@ -199,15 +281,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OAuth2ResourceMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="shop-oAuth2-resource-service" />
+    <configuration name="OAuth2Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-oAuth2-service" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.minidwep.myshop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.OAuth2ResourceMain" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minidwep.myshop.OAuth2Main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -234,9 +316,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OAuth2Test" />
-      <item itemvalue="JUnit.OAuth2Test.contextLoads" />
-      <item itemvalue="JUnit.ApplicationTests.contextLoads (1)" />
+      <item itemvalue="JUnit.ApplicationTests.testGet (1)" />
+      <item itemvalue="JUnit.ApplicationTests.testPost" />
+      <item itemvalue="JUnit.ApplicationTests.testUtilPost" />
       <item itemvalue="Spring Boot.CouponMain" />
       <item itemvalue="Spring Boot.GoodsMain" />
       <item itemvalue="Spring Boot.GoodsMain (1)" />
@@ -245,16 +327,17 @@
       <item itemvalue="Spring Boot.UserMain" />
       <item itemvalue="Spring Boot.ConsumerOrderMain" />
       <item itemvalue="Spring Boot.ConsumerGoodsMain" />
+      <item itemvalue="Spring Boot.DubboTestMain" />
+      <item itemvalue="Spring Boot.OAuth2Main (1)" />
       <item itemvalue="Spring Boot.OAuth2Main" />
-      <item itemvalue="Spring Boot.OAuth2ResourceMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.OAuth2ResourceMain" />
+        <item itemvalue="Spring Boot.OAuth2Main (1)" />
+        <item itemvalue="JUnit.ApplicationTests.testUtilPost" />
         <item itemvalue="Spring Boot.OAuth2Main" />
-        <item itemvalue="JUnit.ApplicationTests.contextLoads (1)" />
-        <item itemvalue="JUnit.OAuth2Test.contextLoads" />
-        <item itemvalue="Application.OAuth2Test" />
+        <item itemvalue="JUnit.ApplicationTests.testPost" />
+        <item itemvalue="JUnit.ApplicationTests.testGet (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -262,21 +345,12 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.16666667" />
+          <option name="contentProportion" value="0.19751082" />
           <treeState>
             <expand>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:oauth2_resource@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -307,6 +381,14 @@
       <workItem from="1588764854499" duration="537000" />
       <workItem from="1588765457257" duration="457000" />
       <workItem from="1588765952577" duration="11552000" />
+      <workItem from="1588830212531" duration="368000" />
+      <workItem from="1588835922323" duration="617000" />
+      <workItem from="1589445438832" duration="17019000" />
+      <workItem from="1589527334959" duration="5002000" />
+      <workItem from="1589625540901" duration="7142000" />
+      <workItem from="1589652462792" duration="7623000" />
+      <workItem from="1589723252253" duration="6598000" />
+      <workItem from="1589779019051" duration="1225000" />
     </task>
     <servers />
   </component>
@@ -318,74 +400,102 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="552" y="218" key="#Notifications/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588239700991" />
-    <state x="439" y="351" width="1161" height="683" key="#Project_Structure" timestamp="1588249197151">
+    <state x="0" y="397" width="1161" height="683" key="#Project_Structure" timestamp="1589446242942">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="0" y="397" key="#Project_Structure/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588166918965" />
+    <state x="0" y="397" key="#Project_Structure/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589446242942" />
     <state x="0" y="397" key="#Project_Structure/0.40.1920.1040@0.40.1920.1040" timestamp="1588217372066" />
     <state x="439" y="351" width="1161" height="683" key="#Project_Structure/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249197151" />
     <state x="552" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588774072015">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="552" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588774072015" />
-    <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1588775507485">
+    <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1589459476246">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588775507485" />
+    <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589459476246" />
     <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1588217898630" />
     <state x="765" y="276" key="#com.intellij.ide.util.MemberChooser/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588251075419" />
     <state x="690" y="335" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1588765060142">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="690" y="335" key="#com.intellij.ide.util.PackageChooserDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588765060142" />
+    <state x="664" y="236" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1589733790700">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="664" y="236" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589733790700" />
+    <state x="399" y="485" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589459403953">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="399" y="485" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589459403953" />
+    <state x="649" y="439" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1589459406503">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="649" y="439" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589459406503" />
     <state x="512" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588315898536">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="512" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588315898536" />
-    <state x="740" y="314" key="FileChooserDialogImpl" timestamp="1588765913076">
+    <state x="740" y="314" key="FileChooserDialogImpl" timestamp="1589713340905">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="740" y="314" key="FileChooserDialogImpl/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588765913076" />
+    <state x="740" y="314" key="FileChooserDialogImpl/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589713340905" />
     <state x="740" y="314" key="FileChooserDialogImpl/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249262232" />
-    <state width="1539" height="362" key="GridCell.Tab.0.bottom" timestamp="1588785851605">
+    <state width="1482" height="334" key="GridCell.Tab.0.bottom" timestamp="1589735663798">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1539" height="362" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1482" height="334" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589735663798" />
+    <state width="1174" height="173" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1589632079726" />
+    <state width="1482" height="218" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1589539428393" />
     <state width="1877" height="488" key="GridCell.Tab.0.bottom/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588255209409" />
-    <state width="1539" height="362" key="GridCell.Tab.0.center" timestamp="1588785851604">
+    <state width="1482" height="334" key="GridCell.Tab.0.center" timestamp="1589735663798">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1539" height="362" key="GridCell.Tab.0.center/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851604" />
+    <state width="1482" height="334" key="GridCell.Tab.0.center/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589735663798" />
+    <state width="1174" height="173" key="GridCell.Tab.0.center/0.40.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1589632079726" />
+    <state width="1482" height="218" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1589539428392" />
     <state width="1877" height="488" key="GridCell.Tab.0.center/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588255209409" />
-    <state width="1539" height="362" key="GridCell.Tab.0.left" timestamp="1588785851604">
+    <state width="1482" height="334" key="GridCell.Tab.0.left" timestamp="1589735663798">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1539" height="362" key="GridCell.Tab.0.left/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851604" />
+    <state width="1482" height="334" key="GridCell.Tab.0.left/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589735663798" />
+    <state width="1174" height="173" key="GridCell.Tab.0.left/0.40.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1589632079726" />
+    <state width="1482" height="218" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1589539428392" />
     <state width="1877" height="488" key="GridCell.Tab.0.left/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588255209408" />
-    <state width="1539" height="362" key="GridCell.Tab.0.right" timestamp="1588785851604">
+    <state width="1482" height="334" key="GridCell.Tab.0.right" timestamp="1589735663798">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1539" height="362" key="GridCell.Tab.0.right/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851604" />
+    <state width="1482" height="334" key="GridCell.Tab.0.right/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589735663798" />
+    <state width="1174" height="173" key="GridCell.Tab.0.right/0.40.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1589632079726" />
+    <state width="1482" height="218" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1589539428392" />
     <state width="1877" height="488" key="GridCell.Tab.0.right/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588255209409" />
-    <state width="1539" height="362" key="GridCell.Tab.1.bottom" timestamp="1588785851605">
+    <state width="1482" height="334" key="GridCell.Tab.1.bottom" timestamp="1589735663799">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1539" height="362" key="GridCell.Tab.1.bottom/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1482" height="334" key="GridCell.Tab.1.bottom/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589735663799" />
+    <state width="1174" height="173" key="GridCell.Tab.1.bottom/0.40.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1589632079726" />
+    <state width="1482" height="218" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1589539428393" />
     <state width="1293" height="231" key="GridCell.Tab.1.bottom/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588252920360" />
-    <state width="1539" height="362" key="GridCell.Tab.1.center" timestamp="1588785851605">
+    <state width="1482" height="334" key="GridCell.Tab.1.center" timestamp="1589735663798">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1539" height="362" key="GridCell.Tab.1.center/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1482" height="334" key="GridCell.Tab.1.center/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589735663798" />
+    <state width="1174" height="173" key="GridCell.Tab.1.center/0.40.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1589632079726" />
+    <state width="1482" height="218" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1589539428393" />
     <state width="1293" height="231" key="GridCell.Tab.1.center/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588252920360" />
-    <state width="1539" height="362" key="GridCell.Tab.1.left" timestamp="1588785851605">
+    <state width="1482" height="334" key="GridCell.Tab.1.left" timestamp="1589735663798">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1539" height="362" key="GridCell.Tab.1.left/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1482" height="334" key="GridCell.Tab.1.left/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589735663798" />
+    <state width="1174" height="173" key="GridCell.Tab.1.left/0.40.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1589632079726" />
+    <state width="1482" height="218" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1589539428393" />
     <state width="1293" height="231" key="GridCell.Tab.1.left/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588252920359" />
-    <state width="1539" height="362" key="GridCell.Tab.1.right" timestamp="1588785851605">
+    <state width="1482" height="334" key="GridCell.Tab.1.right" timestamp="1589735663798">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1539" height="362" key="GridCell.Tab.1.right/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588785851605" />
+    <state width="1482" height="334" key="GridCell.Tab.1.right/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589735663798" />
+    <state width="1174" height="173" key="GridCell.Tab.1.right/0.40.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1589632079726" />
+    <state width="1482" height="218" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1589539428393" />
     <state width="1293" height="231" key="GridCell.Tab.1.right/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588252920360" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1588764569606">
       <screen x="0" y="40" width="1920" height="1040" />
@@ -395,28 +505,33 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="600" y="257" key="NewModule_or_Project.wizard/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249263878" />
-    <state x="440" y="134" key="SettingsEditor" timestamp="1588765919236">
+    <state x="440" y="134" key="SettingsEditor" timestamp="1589731638002">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="440" y="134" key="SettingsEditor/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588765919236" />
+    <state x="440" y="134" key="SettingsEditor/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589731638002" />
     <state x="440" y="134" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1588217357005" />
     <state x="440" y="134" key="SettingsEditor/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249267462" />
     <state x="754" y="181" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1588773984599">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="754" y="181" key="com.intellij.database.view.ui.DbObjectDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588773984599" />
-    <state x="640" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1588766178268">
+    <state x="640" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1589796048234">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="640" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588766178268" />
+    <state x="640" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589796048234" />
+    <state x="640" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1589527334875" />
     <state x="332" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588248213221">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="332" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588248213221" />
-    <state x="649" y="314" key="new project wizard" timestamp="1588773745004">
+    <state x="752" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589460420023">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="649" y="314" key="new project wizard/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1588773745004" />
+    <state x="752" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589460420023" />
+    <state x="317" y="321" key="new project wizard" timestamp="1589628071113">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="317" y="321" key="new project wizard/0.40.1920.1040/1920.0.1536.824@0.40.1920.1040" timestamp="1589628071113" />
     <state x="334" y="254" key="new project wizard/0.40.1920.1040@0.40.1920.1040" timestamp="1588745079204" />
     <state x="377" y="330" key="new project wizard/1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1588249065409" />
     <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1588780368381">
